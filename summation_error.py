@@ -12,4 +12,4 @@ def find_N(d, p):
     return None
 
 print("Example:")
-findN(5, 7)
+find_N(5, 7)
