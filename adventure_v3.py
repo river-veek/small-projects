@@ -359,8 +359,8 @@ CHARACTERS = [('Giant',
                         [['30-MPH CHARGE', 30], ['MAUL', 50], ['CLAW', 40]],
                         80,
                         6),
-              ('Monky',
-                        [['SCREECH', 10], ['THROW BANANA PEEL', 20], ['FLING SH*T', 40]],
+              ('Monkey',
+                        [['SCREECH', 10], ['THROW BANANA PEEL', 20], ['THROW BARREL', 40]],
                         30,
                         9)
               ]
