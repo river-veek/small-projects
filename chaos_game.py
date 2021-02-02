@@ -5,6 +5,8 @@ Each random die roll plots a point halfway to the corresponding point.
 TO RUN PROGRAM:
 >>> python chaos_game.py
 
+Example outputs can be seen in chaos1.png, chaos2.png, and chaos3.png.
+
 Last Updated: 2 February 2020
 Author: River Veek
 """
