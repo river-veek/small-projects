@@ -2,6 +2,9 @@
 The Chaos Game
 Each random die roll plots a point halfway to the corresponding point.
 
+TO RUN PROGRAM:
+>>> python chaos_game.py
+
 Last Updated: 2 February 2020
 Author: River Veek
 """
