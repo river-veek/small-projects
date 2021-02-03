@@ -4,6 +4,7 @@
 
 chaos_game.py
 - Implementation of the chaos game; iteratively creating a fractal.
+- Example outputs can be seen in chaos*.png.
 
 summation_error.py
 - Calculating the sum of n^p from n = 1 to n = infinity. Allows the user to enter the percent error, d, and the telescoping exponent, p.
